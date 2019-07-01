@@ -1,0 +1,35 @@
+title: My name's GuoYQ
+description: > # this means to ignore newlines until "baseurl:"
+  I am GuoY
+permalink: ':title/'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://guoyq.net" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: #if your site has a twitter account, enter it here
+
+# Author Settings
+author: GuoYQ # add your name
+author-img: gyq-gh.png # add your photo
+about-author: 我是郭艺淇. # add description
+social-twitter: # add your Twitter handle
+social-facebook: # add your Facebook handle
+social-github:  # add your Github handle
+social-linkedin: # add your Linkedin handle
+social-email: # add your Email address
+
+# Disqus
+discus-identifier: mr-brown # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
