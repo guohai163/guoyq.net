@@ -3,7 +3,7 @@ layout: post
 title: 今天我可以出院了
 date: 2019-06-28 16:00 +0800
 description: 
-img: IMG_0803.JPG 
+img: 2019-06/IMG_0803.JPG 
 tags: [guoyq, bron]
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 今天我来到了这个世界
 date: 2019-06-26 22:03 +0800
 description: 
-img: 2019-06-26-bron.jpeg # Add image post (optional)
+img: 2019-06/2019-06-26-bron.jpeg # Add image post (optional)
 tags: [guoyq, bron] # add tag
 ---
 
