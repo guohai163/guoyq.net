@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 今天我可以出院了
+title: 洗澡澡
 date: 2019-07-01 09:00 +0800
 description: 
 img: 2019-07/IMG_0816.JPG
