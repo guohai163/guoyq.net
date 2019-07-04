@@ -10,11 +10,11 @@ site-twitter: #if your site has a twitter account, enter it here
 author: GuoYQ # add your name
 author-img: gyq-gh.png # add your photo
 about-author: 我是郭艺淇. # add description
-social-twitter: # add your Twitter handle
+social-twitter: freeguo # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github:  # add your Github handle
 social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-email: me@guoyq.net # add your Email address
 
 # Disqus
 discus-identifier: haiblog # add your discus identifier
