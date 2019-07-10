@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 去不再是黑户了
+title: 我不再是黑户了
 date: 2019-07-10 10:00 +0800
 description: 
 img: 2019-07/IMG_0840.jpg
