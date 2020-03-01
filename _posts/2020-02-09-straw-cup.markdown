@@ -1,0 +1,11 @@
+---
+layout: post
+title: Get新技能：使用吸管杯
+date: 2020-02-09 10:00 +0800
+description: 
+img: 2020-02/20200209.jpg
+tags: [guoyq dragon heads]
+---
+刚满七个月的小淇淇，爸爸第一次让我尝试使用吸管杯，最开始我还不会用，不知道这是什么，什么害怕。试了几次发现能吸出水来才知道这是喝水的。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j1I_eFlaLVw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
